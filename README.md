@@ -1,6 +1,5 @@
 # to-do-list
 Minimal TO-DO list with dark and light modes
-### Screenshot
 
 ### Built with
 
